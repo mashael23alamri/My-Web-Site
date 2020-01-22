@@ -1,0 +1,866 @@
+body{
+   background-image: url("../img/background.png");
+   background-repeat: no-repeat;
+   background-color: #993000;
+   background-position: top;
+   background-attachment: fixed;
+   text-align: center;
+   width: 1320px;
+}
+
+#nav1{
+  background-color: #fbf0e9;
+}
+
+#headline{
+  margin-top: 35px;
+}
+
+#name{
+  font-size: 60px;
+  font-family: sans-serif;
+  font-weight: bold;
+  color: #4d4d4d;
+}
+
+#resume{
+  font-size: 25px;
+  font-weight: normal;
+  color: #4d4d4d;
+}
+
+ /* --------------------------- Section One --------------------------- */
+#well-1{
+  width: 1320px;
+  height: 700px;
+  text-align: center;
+  margin-top: 350px;
+  background-color: #ffffff;
+}
+
+#profile{
+  margin-top: 50px;
+  font-size: 70px;
+  color: #993000;
+}
+
+#iam{
+  font-size: 20px;
+  color: #808080;
+}
+
+#line{
+  width: 920px;
+}
+
+#me , #about{
+margin-left: 200px;
+margin-right: -80px;
+text-align: left;
+}
+
+#me{
+  font-size: 25px;
+  color: #993000;
+}
+
+#about{
+  font-size: 15px;
+  font-family:sans-serif;
+}
+
+#img-profile{
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+  border: 5px solid #fff5e6;
+}
+
+#dtal{
+  margin-left: -80px;
+  text-align: left;
+}
+
+#cv-1{
+    font-style: normal;
+    color: white;
+}
+#details{
+  font-size: 25px;
+  color: #993000;
+}
+
+#name-1 ,#age ,#location{
+  font-size: 18px;
+  color: #993000;
+  font-weight: bold;
+
+}
+
+#name-2 ,#age-1 ,#location-1{
+  font-size: 15px;
+  font-family:sans-serif;
+}
+
+#linked{
+  color: #0047b3;
+  font-size: 22px;
+}
+
+i#linked:hover{
+  color: #000099;
+}
+
+#git{
+  color: #4d4d4d;
+  font-size: 22px;
+}
+
+i#git:hover{
+  color: #000000;
+}
+
+#twi{
+  color:#00b8e6;
+  font-size: 22px;
+}
+
+i#twi:hover{
+  color: #0080ff;
+}
+
+#gmail{
+  color:#b30000;
+  font-size: 22px;
+}
+
+i#gmail:hover{
+  color: #e60000;
+}
+
+#cv{
+  margin-top: 40px;
+  font-size: 20px;
+  font-weight: lighter;
+}
+
+#here{
+  font-size: 20px;
+  font-weight: lighter;
+}
+
+ /* --------------------------- Section Two --------------------------- */
+#well-2{
+  width: 1320px;
+  height: 1000px;
+  text-align: center;
+  margin-top: -1px;
+  background-color: #fff5e6;
+}
+
+#exper{
+  margin-top: 50px;
+  font-size: 70px;
+  color: #993000;
+}
+
+#exper-1{
+  font-size: 20px;
+  color: #808080;
+}
+
+#edu{
+  font-size: 30px;
+  color: #993000;
+  text-align: left;
+  margin-left: 215px;
+  margin-bottom: 30px;
+}
+
+#univ ,#date , #univ-3 , #prof-1{
+  text-align: left;
+  margin-left: 202px;
+}
+
+#univ{
+  font-size: 18px;
+  font-weight: bold;
+}
+
+#date{
+
+}
+
+#univ-2{
+  text-align: left;
+  font-size: 16px;
+  margin-top: 4px;
+  margin-left: -200px;
+  line-height: 1.8;
+}
+
+#univ-3{
+  font-size: 18px;
+  font-weight: bold;
+  margin-top: 80px;
+}
+#univ-4{
+  text-align: left;
+  font-size: 16px;
+  margin-top: 80px;
+  margin-left: -200px;
+  line-height: 1.8;
+}
+
+a , i{
+  color: #993000;
+}
+
+a{
+  line-height: 3;
+}
+
+#prof{
+  font-size: 30px;
+  color: #993000;
+  text-align: left;
+  margin-left: 215px;
+  margin-bottom: 30px;
+}
+
+#prof-1{
+  font-size: 18px;
+  font-weight: bold;
+  text-align: left;
+}
+
+#prof-2{
+  text-align: left;
+  font-size: 16px;
+  margin-left: -200px;
+  line-height: 1.8;
+}
+
+/* --------------------------- Section Threr --------------------------- */
+#well-3{
+  width: 1320px;
+  height: 800px;
+  text-align: center;
+  margin-top: -1px;
+  background-color: #ffffff;
+}
+
+#abili{
+  margin-top: 50px;
+  font-size: 70px;
+  color: #993000;
+}
+
+#abili-1{
+  font-size: 20px;
+  color: #808080;
+}
+
+#skills{
+  font-size: 30px;
+  color: #993000;
+  text-align: left;
+  margin-left: 220px;
+  margin-bottom: 30px;
+}
+
+#skils-1{
+  text-align: left;
+  margin-left: 207px;
+  margin-right: -300px;
+
+}
+
+#skils-back:hover {
+  font-size: 16px;
+  background-color: #f2f2f2;
+}
+
+
+#name-skils{
+  font-style: normal;
+  color: black;
+}
+
+/* --------------------------- Section Four --------------------------- */
+#well-4{
+  width: 1320px;
+  height: 900px;
+  text-align: center;
+  margin-top: -1px;
+  background-color: #fff5e6;
+}
+
+#project{
+  margin-top: 50px;
+  font-size: 70px;
+  color: #993000;
+}
+
+#project-1{
+  font-size: 20px;
+  color: #808080;
+}
+
+#img-1{
+  display: block;
+}
+
+.container {
+  width: 50%;
+  position: relative;
+}
+
+.overlay {
+  position: absolute;
+  bottom: 0;
+  left: 100%;
+  right: 0;
+  background-color: #993000;
+  overflow: hidden;
+  width: 0;
+  height: 100%;
+  transition: .3s ease;
+  text-align: left;
+}
+
+.container:hover .overlay {
+  width: 100%;
+  left: 0;
+  opacity: 0.9;
+}
+
+
+.text {
+  margin-left: 2px;
+  margin-right: 2px;
+  margin-top: -30px;
+  color: white;
+  font-size: 12px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  white-space: nowrap;
+}
+
+#see{
+  color: white;
+  font-size: 15px;
+}
+
+/* --------------------------- Section Five --------------------------- */
+#well-5{
+  width: 1320px;
+  height: 600px;
+  text-align: center;
+  margin-top: -1px;
+  background-color: #4d4d4d;
+
+}
+
+#contact{
+  margin-top: 50px;
+  font-size: 70px;
+  color: white;
+}
+
+#contact-1{
+  font-size: 20px;
+  color: #d9d9d9;
+}
+
+#linked-1{
+  color: #d9d9d9;
+  font-size: 20px;
+  text-align: left;
+}
+
+i#linked-1:hover{
+  color: white;
+}
+
+#git-1{
+  color: #d9d9d9;
+  font-size: 20px;
+  text-align: left;
+}
+
+i#git-1:hover{
+  color: white;
+}
+
+#twi-1{
+  color: #d9d9d9;
+  font-size: 20px;
+  text-align: left;
+}
+
+i#twi-1:hover{
+  color: white;
+}
+
+#gmail-1{
+  color: #d9d9d9;
+  font-size: 20px;
+  text-align: left;
+}
+
+i#gmail-1:hover{
+  color: white;
+}
+
+/* --------------------------- footer --------------------------- */
+
+#footinfor{
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+
+/* ====================== Responsive Query ====================== */
+@media screen and (max-width: 1200px){
+  #well-4{
+    width: 1200px;
+    height: 1800px;
+  }
+
+  #img-1{
+    width: 400px;
+    padding-top: 20px;
+  }
+  .overlay {
+    position: absolute;
+    bottom: 0;
+    right: 400px;
+    background-color: #993000;
+    overflow: hidden;
+    width: 0;
+    height: 100%;
+    transition: .3s ease;
+    text-align: left;
+  }
+  .container:hover .overlay {
+    width: 430px;
+    left: 0;
+    opacity: 0.9;
+  }
+
+}
+
+@media screen and (max-width: 768px) {
+  #headline{
+    width: 768px;
+    text-align: center;
+    margin-left: 10px;
+  }
+
+ /* Section 1 */
+  #well-1{
+    width: 768px;
+    height: 1020px;
+  }
+
+  #nav1{
+    width: 768px;
+  }
+
+  #me , #about{
+    width: 360px;
+    text-align: center;
+    margin-top: 10px;
+  }
+
+  #img-profile{
+    width: 300px;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 170px;
+    margin-left: -30px;
+    float: left;
+  }
+
+  #dtal ,#cv{
+    width: 400px;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 210px;
+  }
+
+  /* Section 2 */
+   #well-2{
+     width: 768px;
+     height: 1240px;
+   }
+
+  #exper ,#exper-1{
+    text-align: center;
+  }
+
+  #edu , #univ ,#univ-2 , #univ-3 , #univ-4 ,#prof ,#prof-1 , #prof-2{
+    width: 768px;
+    float: left;
+  }
+
+  #univ-2{
+    margin-top: 80px;
+  }
+
+  #univ-4{
+    margin-top: 160px;
+  }
+
+   #prof-2{
+     margin-top: 100px;
+   }
+
+   /* Section 3 */
+    #well-3{
+      width: 768px;
+      height: 800px;
+    }
+
+    #skills{
+      margin-left: 150px;
+     }
+
+    #skils-1 {
+      margin-left: 150px;
+    }
+
+    #skils-2{
+      margin-left: 150px;
+    }
+
+    /* Section 4 */
+     #well-4{
+       width: 768px;
+       height: 1800px;
+     }
+
+     #img-1{
+       width: 400px;
+       padding-top: 20px;
+     }
+
+     .overlay {
+       position: absolute;
+       bottom: 0;
+       right: 400px;
+       background-color: #993000;
+       overflow: hidden;
+       width: 0;
+       height: 100%;
+       transition: .3s ease;
+       text-align: left;
+     }
+     .container:hover .overlay {
+       width: 430px;
+       left: 0;
+       opacity: 0.9;
+     }
+
+     /* Section 5 */
+      #well-5{
+        width: 768px;
+        height: 1000px;
+      }
+}
+
+@media screen and (max-width: 414px){
+  body{
+    width: 414px;
+  }
+
+  #nav1{
+    width: 414px;
+  }
+
+  #headline{
+    width: 400px;
+    text-align: center;
+    margin-left: 10px;
+  }
+
+  /* Section 1 */
+   #well-1{
+     width: 414px;
+     height: 1070px;
+     margin-top: -10px;
+   }
+
+   #me , #about{
+     margin-top: 10px;
+     margin-left: 25px;
+   }
+
+   #img-profile{
+     width: 300px;
+     display: flex;
+     flex-wrap: wrap;
+     margin-top: 10px;
+     margin-left: 60px;
+     float: left;
+   }
+
+   #dtal ,#cv{
+     width: 300px;
+     text-align: center;
+     margin-top: 10px;
+     margin-left: 80px;
+   }
+
+   /* Section 2 */
+    #well-2{
+      width: 414px;
+      height: 1430px;
+    }
+
+   #exper{
+     font-size: 60px;
+   }
+
+   #exper , #exper-1{
+     width: 414px;
+     margin-left: 13px;
+   }
+
+   #edu , #univ ,#univ-2 , #date , #univ-3 , #univ-4 ,#prof ,#prof-1 , #prof-2{
+     width: 380px;
+     margin-left: 30px;
+   }
+
+   #univ-2{
+     margin-top: 20px;
+
+   }
+
+   #univ-4{
+     margin-top: 20px;
+   }
+
+    #prof-2{
+      margin-top: 20px;
+    }
+
+    /* Section 3 */
+     #well-3{
+       width: 414px;
+       height: 800px;
+     }
+
+     #skills{
+       margin-left: 30px;
+      }
+
+     #skils-1 {
+       margin-left: 30px;
+     }
+
+     #skils-2{
+       width: 414px;
+       margin-left: 140px;
+       margin-top: -20px;
+       font-size: 12px;
+     }
+
+     /* Section 4 */
+      #well-4{
+        width: 414px;
+        height: 1500px;
+      }
+
+      #img-1{
+        width: 300px;
+        padding-top: 20px;
+        margin-left: -70px;
+      }
+
+      .overlay {
+        position: absolute;
+        bottom: 0;
+        right: 300px;
+        background-color: #993000;
+        overflow: hidden;
+        width: 0;
+        height: 100%;
+        transition: .3s ease;
+        text-align: left;
+        margin-left: -60px;
+      }
+      .container:hover .overlay {
+        width: 400px;
+        left: 0;
+        opacity: 0.9;
+      }
+
+      /* Section 5 */
+       #well-5{
+         width: 414px;
+         height: 500px;
+       }
+
+       #contact{
+         font-size: 60px;
+       }
+
+       #contact-1{
+         font-size: 20px;
+       }
+       #linked-1 ,#git-1, #twi-1 ,#gmail-1{
+      font-size: 15px;
+  }
+
+@media screen and (max-width: 375px){
+  body{
+    width: 375px;
+  }
+
+  #nav1{
+    width: 375px;
+  }
+
+  #headline{
+    width: 375px;
+    text-align: center;
+    margin-left: 10px;
+  }
+
+  /* Section 1 */
+   #well-1{
+     width: 375px;
+     height: 1050px;
+   }
+
+   #nav1{
+     width: 375px;
+   }
+
+   #me , #about{
+     margin-top: 10px;
+     margin-left: -0.1px;
+   }
+
+   #img-profile{
+     width: 300px;
+     display: flex;
+     flex-wrap: wrap;
+     margin-top: 10px;
+     margin-left: 40px;
+     float: left;
+   }
+
+   #dtal ,#cv{
+     width: 300px;
+     text-align: center;
+     margin-top: 10px;
+     margin-left: 60px;
+   }
+
+   /* Section 2 */
+    #well-2{
+      width: 375px;
+      height: 1430px;
+    }
+
+   #exper{
+     font-size: 60px;
+   }
+
+   #exper , #exper-1{
+     width: 375px;
+     margin-left: 13px;
+   }
+
+   #edu , #univ ,#univ-2 , #date , #univ-3 , #univ-4 ,#prof ,#prof-1 , #prof-2{
+     width: 340px;
+     margin-left: 30px;
+   }
+
+   #univ-2{
+     margin-top: 20px;
+
+   }
+
+   #univ-4{
+     margin-top: 20px;
+   }
+
+    #prof-2{
+      margin-top: 20px;
+    }
+
+    /* Section 3 */
+     #well-3{
+       width: 375px;
+       height: 800px;
+     }
+
+     #skills{
+       margin-left: 30px;
+      }
+
+     #skils-1 {
+       margin-left: 30px;
+     }
+
+     #skils-2{
+       width: 375px;
+       margin-left: 140px;
+       margin-top: -20px;
+       font-size: 12px;
+     }
+
+     /* Section 4 */
+      #well-4{
+        width: 375px;
+        height: 1500px;
+      }
+
+      #img-1{
+        width: 300px;
+        padding-top: 20px;
+        margin-left: -70px;
+      }
+
+      .overlay {
+        position: absolute;
+        bottom: 0;
+        right: 300px;
+        background-color: #993000;
+        overflow: hidden;
+        width: 0;
+        height: 100%;
+        transition: .3s ease;
+        text-align: left;
+        margin-left: -60px;
+      }
+      .container:hover .overlay {
+        width: 400px;
+        left: 0;
+        opacity: 0.9;
+      }
+
+      /* Section 5 */
+       #well-5{
+         width: 375px;
+         height: 700px;
+       }
+
+       #contact{
+         font-size: 60px;
+       }
+
+       #contact-1{
+         font-size: 20px;
+       }
+       #linked-1 ,#git-1, #twi-1 ,#gmail-1{
+      font-size: 15px;
+  }
+ }
